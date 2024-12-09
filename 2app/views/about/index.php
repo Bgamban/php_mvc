@@ -1,0 +1,1 @@
+<p>Halo perkenalkan nama saya <?=$data['nama']; ?> profesi saya sebagai <?=$data['pekerjaan']; ?>
